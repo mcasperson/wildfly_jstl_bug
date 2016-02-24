@@ -1,0 +1,5 @@
+<parent>
+    <child someAttr="whatever">
+        Some text
+    </child>
+</parent>
