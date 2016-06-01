@@ -1,0 +1,5 @@
+<parentInTag someAttr="hi from tag">
+    <childInTag someAttr="whatever">
+        YAY! Some text in tag
+    </childInTag>
+</parentInTag>

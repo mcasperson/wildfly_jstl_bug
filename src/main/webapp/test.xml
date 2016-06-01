@@ -1,4 +1,4 @@
-<parent>
+<parent someAttr="hi from top level">
     <child someAttr="whatever">
         Some text
     </child>
